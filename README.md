@@ -46,14 +46,15 @@ spotify-clone/
 │   │-- volume
 │
 │-- songs/
-│   │-- all songs/
-│   │-- cs/
-│   │-- love/
-│   │-- ncs/
-│   │-- sad/
-│   │-- shidumoosewala/
+│   │-- all songs/--yoursongfiles
+│   │-- cs/--yoursongfiles
+│   │-- love/--yoursongfiles
+│   │-- ncs/--yoursongfiles
+│   │-- sad/--yoursongfiles
+│   │-- shidumoosewala/--yoursongfiles
 ```
 
+read the readme.txt from songs/allsongs/readme 
 
 ---
 
