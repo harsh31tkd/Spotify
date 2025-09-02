@@ -69,13 +69,13 @@ read the readme.txt from songs/allsongs/readme
   Place audio files in /songs/<category>/
   Add icon images to /img/
 
-📸 Screenshots
+## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/a9f4497c-c1d6-41e3-bf25-ac83fa6abba8" />
 <img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/870071be-eb7c-425b-b980-0565124c113f" />
 
 ---
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 -Add playlist creation and editing
 -Integrate real music streaming APIs
 -User authentication & song history
@@ -83,7 +83,7 @@ read the readme.txt from songs/allsongs/readme
 
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 -Inspired by the original Spotify
 -UI ideas from various open-source Spotify clones
 
