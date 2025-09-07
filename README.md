@@ -24,34 +24,37 @@ A fully responsive **Spotify web player clone** built using **HTML, CSS, and Jav
 ## 📂 Project Structure
 ```
 spotify-clone/
-│-- index.html
-│-- style.css
-│-- utility.css
-│-- script.js
-│-- favicon.jpg
+│-- index.html        # Main entry point of the web app
+│-- style.css         # Main stylesheet for layout and design
+│-- utility.css       # Extra utility classes for styling
+│-- script.js         # JavaScript for interactivity (play, pause, next, etc.)
+│-- favicon.jpg       # Website favicon (appears in browser tab)
+│-- README.md         # Project documentation
+│-- LICENSE           # License file
 │
-│-- img/
-│   │-- close
-│   │-- hamburger
-│   │-- home
-│   │-- logo
-│   │-- music
-│   │-- mute
-│   │-- nextsong
-│   │-- pause
-│   │-- play
-│   │-- playlist
-│   │-- prevsong
-│   │-- search
-│   │-- volume
+│-- img/              # Folder for all UI icons and images
+│   │-- close         # Close button icon
+│   │-- hamburger     # Hamburger menu icon
+│   │-- home          # Home button icon
+│   │-- logo          # App/Spotify logo
+│   │-- music         # Music symbol icon
+│   │-- mute          # Mute volume icon
+│   │-- nextsong      # Next song button icon
+│   │-- pause         # Pause button icon
+│   │-- play          # Play button icon
+│   │-- playlist      # Playlist icon
+│   │-- prevsong      # Previous song button icon
+│   │-- search        # Search icon
+│   │-- volume        # Volume control icon
 │
-│-- songs/
-│   │-- all songs/--yoursongfiles
-│   │-- cs/--yoursongfiles
-│   │-- love/--yoursongfiles
-│   │-- ncs/--yoursongfiles
-│   │-- sad/--yoursongfiles
-│   │-- shidumoosewala/--yoursongfiles
+│-- songs/            # Folder for all audio files
+│   │-- all songs/        # General song collection
+│   │-- cs/               # Category: CS (custom/your songs)
+│   │-- love/             # Category: Love songs
+│   │-- ncs/              # Category: NCS (No Copyright Sounds)
+│   │-- sad/              # Category: Sad songs
+│   │-- shidumoosewala/   # Category: Sidhu Moose Wala songs
+
 ```
 
 read the readme.txt from songs/allsongs/readme 
